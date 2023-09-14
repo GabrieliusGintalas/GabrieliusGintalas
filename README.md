@@ -35,8 +35,11 @@ You can always reach me through here!
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss anything related to coding and computer science!
 
+[![](./0-profile-details.svg)](https://github.com/GabrieliusGintalas/github-profile-summary-cards)
+[![](./1-repos-per-language.svg)](https://github.com/GabrieliusGintalas/github-profile-summary-cards) [![](./2-most-commit-language.svg)](https://github.com/GabrieliusGintalas/github-profile-summary-cards)
+[![](./3-stats.svg)](https://github.com/GabrieliusGintalas/github-profile-summary-cards) [![](./4-productive-time.svg)](https://github.com/GabrieliusGintalas/github-profile-summary-cards)
+
 [![](https://raw.githubusercontent.com/GabrieliusGintalas/github-profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/GabrieliusGintalas/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/GabrieliusGintalas/github-profile-summary-cards-example/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/GabrieliusGintalas/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/GabrieliusGintalas/github-profile-summary-cards-example/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/GabrieliusGintalas/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/GabrieliusGintalas/github-profile-summary-cards-example/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/GabrieliusGintalas/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/GabrieliusGintalas/github-profile-summary-cards-example/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/GabrieliusGintalas/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/GabrieliusGintalas/github-profile-summary-cards-example/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/GabrieliusGintalas/github-profile-summary-cards) [![](https://raw.githubusercontent.com/GabrieliusGintalas/github-profile-summary-cards-example/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/GabrieliusGintalas/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/GabrieliusGintalas/github-profile-summary-cards-example/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/GabrieliusGintalas/github-profile-summary-cards) [![](https://raw.githubusercontent.com/GabrieliusGintalas/github-profile-summary-cards-example/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/GabrieliusGintalas/github-profile-summary-cards)
+
