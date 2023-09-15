@@ -34,3 +34,7 @@ You can always reach me through here!
 - [Discord] (gabeg)
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss anything related to coding and computer science!
+
+![Gabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrieliusGintalas&show_icons=true&theme=nightowl)
+![Gabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrieliusGintalas&show_icons=true&theme=radical)
+
