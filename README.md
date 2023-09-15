@@ -35,6 +35,5 @@ You can always reach me through here!
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss anything related to coding and computer science!
 
-![Gabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrieliusGintalas&show_icons=true&theme=nightowl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieliusGintalas&layout=donut)](https://github.com/GabrieliusGintalas/github-readme-stats)
+![Gabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrieliusGintalas\&hide=issues\&show_icons=true&theme=nightowl)
 
