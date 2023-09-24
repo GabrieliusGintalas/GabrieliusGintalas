@@ -1,6 +1,7 @@
-# Hi, I'm Gabrielius (Gabe) Gintalas
+# 👋 Hi, I'm Gabrielius (Gabe) Gintalas 🚀
 
-Welcome to my GitHub profile! I'm currently a sophomore at California State University, Fullerton, pursuing a degree in Computer Science with an expected graduation year of 2026. Coding is my passion, and I love working on a variety of projects to improve my skills and make a positive impact in the tech world.
+🎓 Welcome to my GitHub profile! I'm currently a sophomore at California State University, Fullerton, pursuing a degree in Computer Science with an expected graduation year of 2026. 💼 Coding is my passion, and I love 💙 working on a variety of projects to improve my skills and make a positive impact in the tech world.
+
 
 ## 🛠 Languages and Tools 🛠
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)](http://www.cplusplus.com/)
@@ -19,30 +20,31 @@ Welcome to my GitHub profile! I'm currently a sophomore at California State Univ
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielius-gintalas-a3523a252/)
 ![Discord](https://img.shields.io/badge/Discord-%7289DA?style=flat-square&logo=discord&logoColor=white) @ gabeg
 
-Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss anything related to coding and computer science!
-
+🧐 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss anything related to coding and computer science! 🤝
 
 ## ✨ Projects ✨
 
-### Knight's Quest - VGDC (Video Game Development Club) 🎮
+### 🎮 Knight's Quest - VGDC (Video Game Development Club) 🎮
 - Developed an exciting game using C# and Unity
 - Collaborated with fellow club members to create a captivating gaming experience
 - [Knight's Quest](https://drbloo.itch.io/knights-quest)
 
-### Uppers Cafe & Bakeshop Website 🌐
+### 🌐 Uppers Cafe & Bakeshop Website 🌐
 - Built a website for my parents' business using HTML, CSS, and JavaScript
 - Contributed to enhancing the online presence and customer engagement
 - [Uppers Cafe & Bakeshop Website](https://www.upperscafebakeshop.com/)
 
-### Tuffle - Wordle Recreation Backend 🖥️
+### 🖥️ Tuffle - Wordle Recreation Backend 🖥️
 - Created the backend for "Tuffle," a recreation of the popular word game Wordle
 - Implemented core game logic and functionality
 
-### FullyHacks 2023 - Simplified C++ Documentation Website 🌐
+### 🌐 FullyHacks 2023 - Simplified C++ Documentation Website 🌐
 - Participated in the hackathon and developed a user-friendly documentation website for C++
 - Made it easier for developers to access and understand C++ resources
 - [Simplify C++](https://pillowgit.github.io/FullyHacks-2023)
 
-### 3D Open World Game in Unity 🎮
+### 🎮 3D Open World Game in Unity 🎮
 - Currently working on a 3D open-world game using Unity and C#
 - Exciting project with ongoing development
+
+🙏 Thanks for stopping by! 🙏
