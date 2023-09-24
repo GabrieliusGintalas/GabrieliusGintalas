@@ -2,6 +2,17 @@
 
 Welcome to my GitHub profile! I'm currently a sophomore at California State University, Fullerton, pursuing a degree in Computer Science with an expected graduation year of 2026. Coding is my passion, and I love working on a variety of projects to improve my skills and make a positive impact in the tech world.
 
+## 🛠 Languages and Tools 🛠
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c-sharp)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Replit](https://img.shields.io/badge/-Replit-667881?style=flat-square&logo=replit)
+
 ## ✨ Projects ✨
 
 ### Knight's Quest - VGDC (Video Game Development Club) 🎮
