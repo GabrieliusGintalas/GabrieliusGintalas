@@ -5,11 +5,11 @@
 
 ## 🛠 Languages and Tools 🛠
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)](http://www.cplusplus.com/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity)](https://unity.com/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)](https://git-scm.com/)
+[![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity)](https://unity.com/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)](https://www.python.org/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Replit](https://img.shields.io/badge/-Replit-667881?style=flat-square&logo=replit)](https://replit.com/)
