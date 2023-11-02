@@ -14,8 +14,6 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Replit](https://img.shields.io/badge/-Replit-667881?style=flat-square&logo=replit)](https://replit.com/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieliusGintalas&layout=donut-vertical)](https://github.com/GabrieliusGintalas/github-readme-stats)
-
 ## 📫 Connect with Me 📫
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gabe.gin/)
