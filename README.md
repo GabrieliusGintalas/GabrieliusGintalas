@@ -20,6 +20,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielius-gintalas-a3523a252/)
 ![Discord](https://img.shields.io/badge/Discord-%7289DA?style=flat-square&logo=discord&logoColor=white) @ gabeg
 
+##📄 Resume & Portfolio 🌐
+- **Resume:** [Resume](https://docs.google.com/document/d/1F4MUnJlvNHMWL1H1Xj0sTFbm0qxHAqBgWFG5m-ob0lY/edit?usp=sharing)
+- **Portfolio:** [Digital Portfolio (WIP)](https://gabrieliusgintalas.github.io/GabeGPortfolio/)
+
 🧐 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss anything related to coding and computer science! 🤝
 
 ## ✨ Projects ✨
