@@ -21,6 +21,7 @@
 ![Discord](https://img.shields.io/badge/Discord-%7289DA?style=flat-square&logo=discord&logoColor=white) @ gabeg
 
 ## 📄 Resume & Portfolio 🌐
+- **LinkedIn:** [Link to LinkedIn Profile](https://www.linkedin.com/in/gabrielius-gintalas-a3523a252/)
 - **Resume:** [Link to Google Doc](https://docs.google.com/document/d/1F4MUnJlvNHMWL1H1Xj0sTFbm0qxHAqBgWFG5m-ob0lY/edit?usp=sharing)
 - **Portfolio:** [Digital Portfolio (WIP)](https://gabrieliusgintalas.github.io/GabeGPortfolio/)
 
