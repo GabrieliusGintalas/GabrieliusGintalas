@@ -22,7 +22,6 @@
 
 ## 📄 Resume & Portfolio 🌐
 - [**LinkedIn**](https://www.linkedin.com/in/gabrielius-gintalas-a3523a252/)
-- [**Resume**](https://docs.google.com/document/d/1F4MUnJlvNHMWL1H1Xj0sTFbm0qxHAqBgWFG5m-ob0lY/edit?usp=sharing)
 - [**Digital Portfolio (WIP)**](https://gabrieliusgintalas.github.io/GabeGPortfolio/)
 
 🧐 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss anything related to coding and computer science! 🤝
