@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gabrielius (Gabe) Gintalas 🚀
 
-🎓 Welcome to my GitHub profile! I'm currently a junior at California State University, Fullerton, pursuing a degree in Computer Science with an expected graduation year of 2026. 💻 I'm passionate about game development and love creating immersive experiences through code. Whether brainstorming ideas, designing game architecture, or coding mechanics, game dev fuels my creativity and keeps me inspired! 🎮
+🎓 Welcome to my GitHub profile! I'm currently a senior at California State University, Fullerton, pursuing a degree in Computer Science with an expected graduation year of 2026. 💻 I'm passionate about game development and love creating immersive experiences through code. Whether brainstorming ideas, designing game architecture, or coding mechanics, game dev fuels my creativity and keeps me inspired! 🎮
 
 
 ## 🛠 Languages and Tools 🛠
