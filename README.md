@@ -27,6 +27,6 @@ I’m a developer with broad interests across software, and I’m very open-mind
 
 ## 📄 Resume & Portfolio 🌐
 - [**LinkedIn**](https://www.linkedin.com/in/gabrielius-gintalas-a3523a252/)
-- [**Digital Portfolio (WIP)**](https://gabrieliusgintalas.github.io/GabeGPortfolio/)
+- [**Digital Portfolio**](https://gabegin.dev)
 
 🧐 Feel free to explore my repositories, and don’t hesitate to reach out if you'd like to collaborate, build something interesting, or talk about software, games, AI/ML, or development in general! 🤝
